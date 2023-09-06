@@ -1,13 +1,13 @@
 {
     "domain": "is-cool.dev",
-    "subdomain": "kebersamaan",
+    "subdomain": "hy",
 
     "owner": {
-        "email": ""
+        "email": "hyn8110@gmail.com"
     },
 
     "record": {
-        "CNAME": ""
+        "CNAME": "hyyyy.site"
     },
 
     "proxied": true
